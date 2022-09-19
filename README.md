@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗Clique aqui para acessar](https:https://fmnathan.github.io/NLW-Projects-Explorer/)
+[🔗Clique aqui para acessar](https://fmnathan.github.io/NLW-Projects-Explorer/)
 
 
 ## 🛠️ Tecnologias 
